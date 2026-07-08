@@ -1,94 +1,139 @@
 <h1 align="center">Hi 👋, I'm Tanvi Goyal</h1>
 
-<h3 align="center">☁️ Cloud & Backend Developer | AWS Enthusiast | Java | Python | FastAPI</h3>
+<h3 align="center">
+☁️ Cloud & Backend Developer | AWS Enthusiast | Java | Python | FastAPI
+</h3>
 
 <p align="center">
-Building cloud-native applications and continuously improving through projects and DSA 🚀
+Turning curiosity into scalable cloud solutions 🚀
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech Student
+🎓 B.Tech Student passionate about Cloud Computing & Backend Development.
+
 - ☁️ Learning AWS, DevOps & Cloud Engineering
 - 💻 Backend Developer using Python & FastAPI
-- ☕ Java for DSA
-- 🌱 Currently learning Docker & System Design
-- 🎯 Goal: Become a Cloud Engineer
+- ☕ Solving DSA in Java
+- 🚀 Building real-world cloud projects
+- 🎯 Goal: Cloud Engineer @ Top Product Company
 
 ---
 
-## 🚀 Tech Stack
+## 🛠 Tech Stack
 
 ### Languages
-- Java
-- Python
-- JavaScript
-- HTML
-- CSS
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
+</p>
 
 ### Backend
-- FastAPI
-- REST API
 
-### Cloud
-- AWS Lambda
-- Amazon Cognito
-- API Gateway
-- DynamoDB
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
+</p>
 
-### Database
-- MongoDB
-- Firebase
+### Cloud & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,firebase,mongodb" />
+</p>
 
 ### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### ✈️ TripMate
-Cloud-based travel planner built using AWS Lambda, Cognito, API Gateway and DynamoDB.
+
+AWS Serverless Travel Planner
+
+**Tech Used**
+
+- AWS Lambda
+- API Gateway
+- Amazon Cognito
+- DynamoDB
+
+---
 
 ### 🎓 Academia CRM
-AI-powered B2B CRM for educational institutions.
+
+AI-powered B2B CRM System
+
+**Features**
+
+- Lead Management
+- AI Insights
+- Dashboard
+- Authentication
+
+---
 
 ### 🤝 SkillSwap
-Student Skill Exchange Platform with Authentication and Matching System.
+
+Student Skill Exchange Platform
+
+**Features**
+
+- Authentication
+- Skill Matching
+- Chat
+- User Profiles
+
+---
 
 ### 💻 FastAPI CRUD API
+
 REST API built using FastAPI.
 
 ---
 
----
+# 🌱 Currently Learning
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goyaltanvi378-git&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goyaltanvi378-git&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-## 📚 Currently Learning
-
-- AWS Cloud
-- DevOps
+- AWS
 - Docker
+- DevOps
 - System Design
-- DSA in Java
+- CI/CD
+- Kubernetes (Next)
 
 ---
 
-## 📫 Connect With Me
+# 📈 2026 Goals
 
-- 💼 LinkedIn: https://linkedin.com/in/tanvi-goyal-086a08331
-- 💻 LeetCode: https://leetcode.com/u/Tanvi_goyal/
+✅ 300+ DSA Problems
+
+✅ AWS Certification
+
+✅ Open Source Contributions
+
+✅ Cloud Projects
+
+✅ Internship
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 📫 Connect With Me
+
+📧 Email: goyaltanvi378@gmail.com
+
+💼 LinkedIn:
+https://linkedin.com/in/tanvi-goyal-086a08331
+
+💻 LeetCode:
+https://leetcode.com/u/Tanvi_goyal/
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile ⭐
+</h3>
