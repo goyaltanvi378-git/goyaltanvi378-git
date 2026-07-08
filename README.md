@@ -66,18 +66,13 @@ REST API built using FastAPI.
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goyaltanvi378-git&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goyaltanvi378-git&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goyaltanvi378-git&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=goyaltanvi378-git&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goyaltanvi378-git&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 ## 📚 Currently Learning
 
